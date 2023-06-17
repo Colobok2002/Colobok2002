@@ -9,7 +9,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Colobok2002&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Colobok2002&theme=solarized_dark)&nbsp;&nbsp;&nbsp;![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Colobok2002&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Colobok2002&theme=solarized_dark)&nbsp;&nbsp; ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Colobok2002&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Colobok2002&theme=solarized_dark)&nbsp;&nbsp;&nbsp;![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Colobok2002&theme=solarized_dark)
 <br><br>
 </h1>
 <h1 align="center">
