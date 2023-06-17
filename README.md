@@ -1,7 +1,10 @@
-<h1 align="center">Привет ✌🏻 Меня зовут Илья
-</h1><h3 align="center">Я являюсь Python разработчиком
-</h3><br>
+<h1 id='test' align="center">Привет ✌🏻 Меня зовут Илья</h1>
+<h3 align="center">Я являюсь Python разработчиком из России 🇷🇺</h3>
 
+<h5 align="center"><a href="https://www.linux.com/what-is-linux/"><img src="https://readme-typing-svg.herokuapp.com?font=Robots&duration=500&pause=100&color=00F70A&multiline=true&repeat=false&height=180&lines=0000010000101101+0000010001000010;0000010000111110+00100000+;0000010000111111+0000010000110000+;0000010001000001+0000010001000101+;0000010000110000+0000010000111011+;0000010000111010+0000010000110000;root%40root+%3A+~%24+help" alt="Typing SVG" /></a>
+<h5 align='center'>
+
+</h5>
 
 <h5 align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"> </a>
 
@@ -21,13 +24,52 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Colobok2002&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Colobok2002&theme=solarized_dark)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Colobok2002&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Colobok2002&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Colobok2002&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Colobok2002&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Colobok2002&theme=solarized_dark)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Colobok2002&theme=solarized_dark)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+1
+	
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Colobok2002&theme=solarized_dark)
+<style>
+.pouring {
+    font-size: 40px;
+    line-height: 50px;
+    font-family: Verdana, sans-serif;
+    font-weight: 900;
+    position: relative;
+    background: white;
+    overflow: hidden;
+    text-transform: uppercase;
+    text-align: center;
+}
+.pouring:before {
+    content: '';
+    position: absolute;
+    filter: blur(10px);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    mix-blend-mode: screen;
+    background-image: repeating-linear-gradient(-45deg, transparent, transparent 1em, #BFE2FF 1em, #337AB7 50%), repeating-linear-gradient(45deg, #337AB7, #337AB7 1em, #FFF 1em, #BFE2FF 50%);
+    background-size: 3em 3em, 2em 2em;
+    animation-name: ani;
+    animation-duration: 10s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+@keyframes ani {
+    from {
+        background-position: 0 0;
+    }
+    to {
+        background-position: 100% 0;
+    }
+}
+@media (max-width:690px) {    
+    .pouring {font-size: 20px;}    
+}
+</style>
