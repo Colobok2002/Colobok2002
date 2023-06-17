@@ -13,4 +13,4 @@
 <br><br>
 </h1>
 <h1 align="center">
-<a href="https://www.linux.com/what-is-linux/"><img src="https://readme-typing-svg.herokuapp.com?font=Robots&duration=500&pause=100&color=00F70A&multiline=true&repeat=true&height=180&lines=0000010000101101+0000010001000010;0000010000111110+00100000+;0000010000111111+0000010000110000+;0000010001000001+0000010001000101+;0000010000110000+0000010000111011+;0000010000111010+0000010000110000;root%40root+%3A+~%24+help" alt="Typing SVG" /></a></h1>
+<a href="https://www.linux.com/what-is-linux/"><img src="https://readme-typing-svg.herokuapp.com?font=Robots&duration=500&pause=500&color=00F70A&multiline=true&repeat=true&height=180&lines=0000010000101101+0000010001000010;0000010000111110+00100000+;0000010000111111+0000010000110000+;0000010001000001+0000010001000101+;0000010000110000+0000010000111011+;0000010000111010+0000010000110000;root%40root+%3A+~%24+help" alt="Typing SVG" /></a></h1>
